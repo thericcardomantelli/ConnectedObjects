@@ -1,9 +1,13 @@
-NodeMCU è un modulo hardware open-source che si basa sulla piattaforma eLua e sulla tecnologia ESP8266 della Espressif, un SoC (System on a Chip) WiFi integrato. È stato progettato per aiutare a ridurre la complessità e il costo di progettazione e sviluppo di progetti IoT (Internet of Things).
+NodeMCU è un modulo hardware open-source che si basa sulla piattaforma eLua e sulla tecnologia ESP8266 della Espressif, 
+un SoC (System on a Chip) WiFi integrato. È stato progettato per aiutare a ridurre la complessità e il costo di progettazione 
+e sviluppo di progetti IoT (Internet of Things).
 
-L'idea di NodeMCU è nata intorno al 2014 quando "Espressif Systems" ha rilasciato l'ESP8266, un chip economico con la capacità WiFi. Inizialmente, l'ESP8266 era principalmente utilizzato come modulo seriale WiFi per i microcontrollori. Tuttavia, a causa del suo processore relativamente potente e della sua capacità di eseguire il codice del firmware, i sviluppatori hanno iniziato a realizzare il suo potenziale per essere utilizzato come microcontrollore stand-alone.
+L'idea di NodeMCU è nata intorno al 2014 quando "Espressif Systems" ha rilasciato l'ESP8266, un chip economico con la capacità WiFi. 
+Inizialmente, l'ESP8266 era principalmente utilizzato come modulo seriale WiFi per i microcontrollori. 
+Tuttavia, a causa del suo processore relativamente potente e della sua capacità di eseguire il codice del firmware, 
+i sviluppatori hanno iniziato a realizzare il suo potenziale per essere utilizzato come microcontrollore stand-alone.
 
-Alla fine del 2014, un progetto open source chiamato NodeMCU è stato lanciato. L'obiettivo principale di NodeMCU era creare un modo semplice per costruire progetti IoT utilizzando la tecnologia moderna del web. Il nome NodeMCU deriva da "node" (nodo), che è un termine comune nel contesto delle reti di computer e dell'Internet of Things, e "MCU" che sta per MicroController Unit.
-
-NodeMCU utilizza Lua, un linguaggio di scripting di alto livello, per programmazione e configurazione. Lua è noto per la sua semplicità e la sua leggerezza, rendendo il NodeMCU un'opzione popolare per gli sviluppatori IoT.
-
-Oggi, NodeMCU è diventato uno standard per lo sviluppo di progetti IoT, grazie alla sua facilità di utilizzo, alla sua natura open-source e al supporto della comunità.
+Alla fine del 2014, un progetto open source chiamato NodeMCU è stato lanciato. L'obiettivo principale di NodeMCU 
+era creare un modo semplice per costruire progetti IoT utilizzando la tecnologia moderna del web. Il nome NodeMCU 
+deriva da "node" (nodo), che è un termine comune nel contesto delle reti di computer e dell'Internet of Things, 
+e "MCU" che sta per MicroController Unit.
