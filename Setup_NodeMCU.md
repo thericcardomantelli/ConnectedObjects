@@ -1,4 +1,4 @@
-Procedure for setting up NodeMCU starting from the installation using markdown format:
+Procedure for setting up NodeMCU.
 
 **1. Download and install the Arduino IDE:**
    - Go to the [Arduino website](www.arduino.cc/en/Main/Software) and download the Arduino IDE (version 1.8.6 in the tutorial).
