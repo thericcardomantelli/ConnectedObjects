@@ -1,0 +1,7 @@
+Un WebSocket è un protocollo di comunicazione bidirezionale, a bassa latenza e basato su TCP, utilizzato per creare una connessione persistente tra un server e un client attraverso il Web. A differenza dei tradizionali protocolli HTTP, che seguono un modello di richiesta-risposta, i WebSocket consentono una comunicazione interattiva in tempo reale tra il server e il client.
+
+I WebSocket forniscono un canale di comunicazione full-duplex, il che significa che entrambe le parti possono inviare e ricevere dati contemporaneamente. Una volta stabilita la connessione WebSocket, viene mantenuto un canale aperto tra il server e il client, consentendo loro di inviare messaggi in modo asincrono senza dover attendere una richiesta esplicita.
+
+I WebSocket sono particolarmente utili per applicazioni che richiedono aggiornamenti in tempo reale, come chat online, giochi multigiocatore, applicazioni collaborative, notifiche push e streaming di dati. A differenza delle tradizionali tecnologie di polling o long polling, che richiedono la continua richiesta di aggiornamenti al server, i WebSocket offrono un'alternativa più efficiente ed economica in termini di utilizzo delle risorse di rete e di elaborazione del server.
+
+Per stabilire una connessione WebSocket, il client invia una richiesta di upgrade al server, indicando che desidera passare al protocollo WebSocket. Se il server accetta la richiesta, viene stabilita la connessione WebSocket e le comunicazioni bidirezionali possono avere inizio.
