@@ -1,4 +1,4 @@
-#WebSocket#
+# WebSocket
 Un WebSocket è un protocollo di comunicazione bidirezionale, a bassa latenza e basato su TCP, utilizzato per creare una connessione persistente tra un server e un client attraverso il Web. A differenza dei tradizionali protocolli HTTP, che seguono un modello di richiesta-risposta, i WebSocket consentono una comunicazione interattiva in tempo reale tra il server e il client.
 
 I WebSocket forniscono un canale di comunicazione full-duplex, il che significa che entrambe le parti possono inviare e ricevere dati contemporaneamente. Una volta stabilita la connessione WebSocket, viene mantenuto un canale aperto tra il server e il client, consentendo loro di inviare messaggi in modo asincrono senza dover attendere una richiesta esplicita.
@@ -8,8 +8,7 @@ I WebSocket sono particolarmente utili per applicazioni che richiedono aggiornam
 Per stabilire una connessione WebSocket, il client invia una richiesta di upgrade al server, indicando che desidera passare al protocollo WebSocket. Se il server accetta la richiesta, viene stabilita la connessione WebSocket e le comunicazioni bidirezionali possono avere inizio.
 
 
-#Socket.IO#
-
+# Socket.IO
 Socket.IO è una libreria JavaScript che semplifica la creazione di applicazioni in tempo reale basate su WebSockets. Si basa sui WebSocket sottostanti, ma fornisce un'astrazione più elevata, offrendo funzionalità aggiuntive e semplificando la gestione delle connessioni in tempo reale tra client e server.
 
 Una delle caratteristiche distintive di Socket.IO è la sua capacità di adattarsi automaticamente alla migliore tecnologia di trasporto disponibile nel browser del client. Supporta diverse tecnologie di trasporto, come WebSocket, Server-Sent Events (SSE) e Long Polling, consentendo al client di utilizzare la migliore opzione in base alla compatibilità del browser e all'ambiente di rete.
